@@ -1,0 +1,152 @@
+[
+  {
+    "id": "flowers",
+    "title": "Pipe Cleaner Flowers",
+    "category": "flowers",
+    "categoryLabel": "Handmade Flowers",
+    "badge": "Popular",
+    "shortDescription": "Beautiful handmade flowers created with colourful pipe cleaners and thoughtful details. Ideal for room decoration, desk décor, and gifting.",
+    "description": "Bright, cheerful pipe cleaner flowers that add colour to your room, desk or special occasion. Crafted with high-grade soft chenille stems with flexible wire cores, these flowers never wilt, need zero watering, and bring a cheerful touch to any corner.",
+    "image": "assets/images/tulip-flower.jpg",
+    "priceNote": "Contact us for current pricing",
+    "estimatedPrice": "Affordable Handmade",
+    "options": [
+      "Different flower styles & colours",
+      "Single flowers or arranged sets",
+      "Custom colour combinations",
+      "Suitable for gifting and decoration"
+    ],
+    "suitableFor": ["Room & Desk Décor", "Gifting", "Study Table", "Cheerful Corners"],
+    "specifications": {
+      "Material": "Premium Chenille Pipe Cleaners & Flexible Core",
+      "Care": "Dust gently with a soft dry brush; keep away from direct water",
+      "Lifespan": "Everlasting / Long-lasting décor",
+      "Customisation": "Available in pastel pink, peach, lilac, sunflower yellow, baby blue & more"
+    }
+  },
+  {
+    "id": "bouquets",
+    "title": "Flower Bouquets",
+    "category": "bouquets",
+    "categoryLabel": "Flower Bouquets",
+    "badge": "Signature",
+    "shortDescription": "Give flowers that stay bright. Handmade pipe cleaner bouquets that are a creative, everlasting alternative to traditional flowers.",
+    "description": "Long-lasting handmade bouquets that stay beautiful without watering or daily maintenance. Beautifully styled with tulips, daisies, foliage and lavender stems, wrapped in premium matte translucent wrapping and tied with a satin ribbon.",
+    "image": "assets/images/flower-bouquet.jpg",
+    "priceNote": "Depends on bouquet size and design",
+    "estimatedPrice": "Custom Sizes Available",
+    "options": [
+      "Small, Medium & Grand bouquet sizes",
+      "Personalised flower selection (Tulips, Daisies, Roses)",
+      "Choice of wrapping paper & satin ribbons",
+      "Complimentary handwritten message card"
+    ],
+    "suitableFor": ["Birthdays", "Anniversaries", "Teacher Gifts", "Friendship Gifts", "Special Celebrations"],
+    "specifications": {
+      "Material": "Chenille pipe cleaners, florist tape, premium wrap & satin bow",
+      "Care": "Keep in an indoor vase; zero water required",
+      "Dimensions": "Available in mini (15-20cm), classic (25-30cm), and grand (35cm+)",
+      "Customisation": "Custom colour palettes, flower counts, and theme coordination"
+    }
+  },
+  {
+    "id": "keychains",
+    "title": "Handmade Keychains",
+    "category": "keychains",
+    "categoryLabel": "Cute Keychains",
+    "badge": "Cute & Lightweight",
+    "shortDescription": "Cute and creative keychains designed for bags, keys and everyday accessories. Lightweight and crafted with durable chenille stems.",
+    "description": "Lightweight, colourful keychains for bags, keys and everyday accessories. Choose from charming floral charms, sweet bunny faces, and colourful shapes, or request a custom charm matching your favourite colors.",
+    "image": "assets/images/keychains.jpg",
+    "priceNote": "Contact us for current pricing",
+    "estimatedPrice": "Pocket-Friendly Joy",
+    "options": [
+      "Lightweight handmade designs",
+      "Colourful shapes and characters",
+      "Durable golden keyrings & lobster clasps",
+      "Custom designs based on availability"
+    ],
+    "suitableFor": ["Bags & Backpacks", "Keyrings", "Return Gifts", "Couple & Friendship Tokens"],
+    "specifications": {
+      "Material": "Soft pipe cleaners, reinforced inner core, alloy key ring & clasp",
+      "Care": "Spot clean gently with dry cloth",
+      "Weight": "Super lightweight (approx. 10-15g)",
+      "Customisation": "Choose charm style, colors, and initial tag if requested"
+    }
+  },
+  {
+    "id": "hair-accessories",
+    "title": "Hair Accessories",
+    "category": "hair-accessories",
+    "categoryLabel": "Hair Accessories",
+    "badge": "Playful Style",
+    "shortDescription": "Playful handmade accessories that add a creative touch to everyday style. Lightweight, comfortable, and gentle on hair.",
+    "description": "Add a little colour to everyday style with handmade hair accessories designed to be playful, lightweight and easy to wear. Featuring floral hairpins, butterfly clips, and charming floral claws crafted from chenille stems.",
+    "image": "assets/images/hair-accessories.jpg",
+    "priceNote": "Contact us for current pricing",
+    "estimatedPrice": "Affordable Everyday Glam",
+    "options": [
+      "Floral clips, hairpins, and claw attachments",
+      "Pastel and vibrant color palettes",
+      "Gentle grip suitable for all hair types",
+      "Custom color sets for outfits or events"
+    ],
+    "suitableFor": ["Everyday Style", "Party Wear", "Kids & Teens", "Special Event Styling"],
+    "specifications": {
+      "Material": "Soft chenille flowers securely mounted on hair clips/bobby pins",
+      "Comfort": "Snag-free, ultra-lightweight",
+      "Care": "Keep dry and store in accessory pouch",
+      "Customisation": "Available in sets of 2, 4 or custom single statement clips"
+    }
+  },
+  {
+    "id": "mini-figures",
+    "title": "Mini Figures",
+    "category": "mini-figures",
+    "categoryLabel": "Mini Figures",
+    "badge": "Desk Buddies",
+    "shortDescription": "Bring home a tiny handmade friend. Cute little handmade characters that are perfect for collecting, gifting or displaying.",
+    "description": "Cute little handmade characters that are perfect for collecting, gifting or decorating a study table, shelf or bedroom. Each figurine is sculpted by hand with careful details, expressive postures, and cheerful colors.",
+    "image": "assets/images/mini-figures.jpg",
+    "priceNote": "Contact us for current pricing",
+    "estimatedPrice": "Collectible Charm",
+    "options": [
+      "Bunny, chick, bear, and puppy characters",
+      "Holding mini flowers, hearts, or stars",
+      "Custom character requests based on feasibility",
+      "Compact desktop or shelf display size"
+    ],
+    "suitableFor": ["Study Table Décor", "Office Desks", "Collectible Displays", "Thoughtful Micro-Gifts"],
+    "specifications": {
+      "Material": "High-density fuzzy chenille stems, bead accents, stable base",
+      "Height": "Approx. 5cm to 8cm",
+      "Care": "Keep away from moisture and dust with soft brush",
+      "Customisation": "Custom accessories or character colors available"
+    }
+  },
+  {
+    "id": "gift-hampers",
+    "title": "Gift Hampers",
+    "category": "gift-hampers",
+    "categoryLabel": "Gift Hampers",
+    "badge": "Complete Gift Set",
+    "shortDescription": "Make your gift more personal with a thoughtfully arranged handmade hamper for birthdays, celebrations, and return gifts.",
+    "description": "Thoughtfully arranged handmade gifts for birthdays, celebrations, return gifts and special occasions. A hamper can include selected products such as flowers, keychains, mini figures, accessories or décor pieces, nestled with fairy lights and a handwritten message.",
+    "image": "assets/images/gift-hamper.jpg",
+    "priceNote": "Depends on selected items and hamper budget",
+    "estimatedPrice": "Curated to Your Budget",
+    "options": [
+      "Curated combination of bouquets, keychains, and accessories",
+      "Aesthetic kraft gift box with shredded paper & fairy lights",
+      "Handwritten personalized gift card included",
+      "Bulk hamper discounts for return gifts & events"
+    ],
+    "suitableFor": ["Birthdays", "Return Gifts", "Festivals", "Farewells", "Corporate / Event Gifting"],
+    "specifications": {
+      "Packaging": "Eco-friendly sturdy kraft box, crinkle paper, satin ribbon",
+      "Inclusions": "Customizable items from Dhaura Bloom collections",
+      "Add-ons": "LED fairy lights, custom greeting note, photo card",
+      "Customisation": "100% customisable according to your target budget"
+    }
+  }
+]
