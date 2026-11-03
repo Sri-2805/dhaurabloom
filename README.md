@@ -82,7 +82,7 @@ or
 npm start
 ```
 Then open your browser at:
-👉 https://dhaurabloom-w9pu.vercel.app/
+👉 https://dhaurabloom-4wj1.vercel.app/
 
 ### Method 2: Direct Browser Access
 You can also directly double-click or open `index.html` in any web browser!
