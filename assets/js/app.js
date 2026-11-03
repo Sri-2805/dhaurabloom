@@ -16,7 +16,6 @@ document.addEventListener('DOMContentLoaded', async () => {
   await loadProducts();
   initColorPickers();
   initCustomForm();
-  initFaqAccordion();
   initContactForm();
   initInquiryDrawer();
 });
@@ -618,23 +617,6 @@ function handleFormSubmit(form) {
     else c.classList.remove('active');
   });
   updateLiveSummary();
-}
-
-// FAQ Accordion
-function initFaqAccordion() {
-  const faqItems = document.querySelectorAll('.faq-item');
-  faqItems.forEach(item => {
-    const btn = item.querySelector('.faq-question-btn');
-    if (btn) {
-      btn.addEventListener('click', () => {
-        const isActive = item.classList.contains('active');
-        faqItems.forEach(i => i.classList.remove('active'));
-        if (!isActive) {
-          item.classList.add('active');
-        }
-      });
-    }
-  });
 }
 
 // Contact Form
