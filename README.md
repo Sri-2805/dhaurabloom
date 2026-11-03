@@ -87,6 +87,14 @@ Then open your browser at:
 ### Method 2: Direct Browser Access
 You can also directly double-click or open `index.html` in any web browser!
 
+### Deploy to Vercel
+This is a static website. The Vercel configuration builds the site into `dist/` and publishes that directory; `server.js` is only used for local development.
+
+1. Import the GitHub repository into Vercel.
+2. Use the **Other** framework preset if Vercel asks you to choose one.
+3. Keep the build command as `npm run build` and the output directory as `dist`.
+4. Deploy. The same build can be checked locally with `npm run build`.
+
 ---
 
 ## 📁 File Structure

@@ -4,6 +4,7 @@
   "description": "Dhaura Bloom - Official Website for Handmade Pipe Cleaner Crafts & Gifts in Chennai",
   "main": "server.js",
   "scripts": {
+    "build": "node build.js",
     "start": "node server.js",
     "dev": "node server.js"
   },
