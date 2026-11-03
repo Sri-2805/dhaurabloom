@@ -74,7 +74,7 @@
 
       <!-- Navigation Menu -->
       <nav>
-        <ul class="nav-menu">
+        <ul class="nav-menu" id="primary-navigation">
           <li><a href="#home" class="nav-link active">Home</a></li>
           <li><a href="#products" class="nav-link">Products & Customise</a></li>
           <li><a href="#why-us" class="nav-link">Why Us</a></li>
@@ -96,8 +96,13 @@
           <span>Custom Order Form</span>
           <i data-lucide="arrow-right" style="width: 15px; height: 15px;"></i>
         </button>
-        <button class="mobile-toggle" aria-label="Toggle Menu">
-          <i data-lucide="menu"></i>
+        <button class="mobile-toggle" type="button" aria-label="Open navigation menu" aria-controls="primary-navigation" aria-expanded="false">
+          <svg class="menu-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <path d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+          <svg class="close-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <path d="m18 6-12 12M6 6l12 12"></path>
+          </svg>
         </button>
       </div>
 
@@ -678,7 +683,7 @@
       </div>
 
       <!-- Mission & Vision Cards -->
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-top: 3.5rem;">
+      <div class="about-purpose-grid">
         <div style="background: var(--surface); padding: 2rem; border-radius: var(--radius-lg); border: 1px solid var(--surface-border); box-shadow: var(--shadow-sm);">
           <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
             <div style="background: var(--primary-light); width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: var(--primary);"><i data-lucide="compass"></i></div>
